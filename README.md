@@ -1,9 +1,9 @@
 # Tech Blog
 
 
-### Github : https://github.com/shaner3423/tech-blog
+### Github: https://github.com/shaner3423/tech-blog
 
-### Heroku :
+### Heroku: https://git.heroku.com/shane-tech-blog.git
 
 ## Description
 A CMS-style blog application with the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
