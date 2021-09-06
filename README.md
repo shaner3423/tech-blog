@@ -41,6 +41,16 @@ A CMS-style blog application with the MVC paradigm in its architectural structur
 <p><a href="https://www.heroku.com/">Heroku</a></p>
 
 
+## Credits:
+Dana Bottoni
+
+https://github.com/dbottoni
+
+Spencer Berkabile 
+
+https://github.com/SBerkebile7
+
+
 ## Contributor:
 Shane Crisostomo ©2021 All Rights Reserved.
 - - -
